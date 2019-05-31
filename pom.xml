@@ -4,7 +4,7 @@
     <artifactId>SpringBootMavenExample</artifactId>
     <name>SpringBootMavenExample</name>
     <description>SpringBootMavenExample</description>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2</version>
     <packaging>war</packaging>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -56,5 +56,6 @@
    <connection>scm:git:git@github.com:nathanmolinari/spring-boot-maven-example-helloworld.git</connection>
    <url>scm:git:git@github.com:nathanmolinari/spring-boot-maven-example-helloworld.git</url>
    <developerConnection>scm:git:git@github.com:nathanmolinari/spring-boot-maven-example-helloworld.git</developerConnection>
-</scm>
+  <tag>0.0.2</tag>
+  </scm>
 </project>
